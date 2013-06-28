@@ -7,6 +7,8 @@ gem 'rails', '3.2.13'
 
 gem 'high_voltage'
 gem 'sqlite3'
+gem 'twitter'
+gem 'omniauth-twitter'
 
 group :development, :test do
 	gem 'rspec-rails'
